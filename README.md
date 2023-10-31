@@ -45,29 +45,45 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-### Data Head
-![head](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/8d1459aa-5216-4dff-9821-dc42ba4993c8)
+### Data Head:
 
-### Information:
-![info](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/34e37767-ae95-4f0c-b608-89f73e832036)
+![head](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/466408d3-08c3-41b4-92c3-31491f0d2ddd)
+
+
+### Data set info:
+
+![info](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/465f83f9-2852-4bef-b349-f20502356884)
+
 
 ### Null dataset:
-![null](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/14090052-051a-44b6-921b-38b2b398928a)
 
-### Value_counys:
-![v_count](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/44b8a5ce-bf50-40e2-8f8f-d704dc157bdc)
+![null](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/9b75e119-f62d-43db-adfa-35b77781ad8e)
 
-### Data Type Convertion:
-![change to number](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/0f3bfc5f-a98d-4fac-9eb4-4a26fc7e57c4)
 
-### Data Info:
-![data info](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/1a3c3f83-57d7-4537-a438-468b58083138)
+### Values count in left column:
+
+![value](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/6f638b01-b033-4a91-90b2-a0a45ce1dd2c)
+
+
+### Dataset transformed head:
+
+![transform](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/9cfaed5f-5b6d-468c-875d-aa7a9a2f47c2)
+
+
+### x.head:
+
+![xhead](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/c197a3bb-8235-4d10-b8a2-a732f9784b2a)
+
 
 ### Accuracy:
-![accu](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/0fbfb6a8-9209-4b87-91b8-078c68e302fb)
+
+![acc](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/407b6a0e-aab5-450e-85f4-b79e548e97b8)
+
 
 ### Data Prediction:
-![pred](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/d9280463-01e2-41dc-8a35-1dfb67feb7c0)
+
+![predict](https://github.com/A-Thiyagarajan/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118707693/9fa8b109-6f63-45e9-a72e-5fe3367587f6)
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
